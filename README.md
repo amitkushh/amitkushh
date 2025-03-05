@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Amit Kushwaha and I'm a developer from india.</p>
+<p align="left">My name is Amit Kushwaha and I'm a full stack developer from india.</p>
 <p align="left">Contact => <b>amitkush.dev@gmail.com</b></p>
 
 ###
@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since june 2024<br>📚 I'm currently learning full stack development<br>🎯 Goals 2025: build best projects.</p>
+<p align="left">✨ Creating bugs since june 2024<br>🎯 Goals 2025: build best projects.</p>
 
 ###
 
