@@ -3,6 +3,7 @@
 ###
 
 <p align="left">My name is Amit Kushwaha and I'm a developer from india.</p>
+<p align="left">Contact => amitkush.dev@gmail.com</p>
 
 ###
 
