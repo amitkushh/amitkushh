@@ -3,7 +3,7 @@
 ###
 
 <p align="left">My name is Amit Kushwaha and I'm a full stack developer from india.</p>
-📧 [amitkush.dev@gmail.com](mailto:amitkush.dev@gmail.com) 
+<p>📧 <a href="mailto:amitkush.dev@gmail.com">amitkush.dev@gmail.com</a></p>
 
 ###
 
