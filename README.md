@@ -1,5 +1,3 @@
-<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Findianexpress.com%2Farticle%2Fentertainment%2Fopinion-entertainment%2Fthe-social-network-facebook-mark-zuckerberg-5173836%2F&psig=AOvVaw2tqBu2ihgSww8cX9YV9hZi&ust=1749142888068000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDu862f2I0DFQAAAAAdAAAAABAE](https://images.indianexpress.com/2018/05/the-social-network-759.jpg)" />
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
