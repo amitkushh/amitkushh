@@ -9,6 +9,8 @@
 
 <h2 align="left">About me</h2>
 
+<a href="https://ko-fi.com/amitkushh"> <img src="https://img.shields.io/badge/-buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /> </a>
+
 ###
 
 <p align="left">✨ Creating bugs since june 2024<br>🎯 Goals 2025: build best projects.</p>
