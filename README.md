@@ -3,6 +3,9 @@
 ###
 
 <p align="left">My name is Amit Kushwaha and I'm a full stack developer from india.</p>
+
+![](https://komarev.com/ghpvc/?username=amitkushh&abbreviated=true&style=for-the-badge&color=blue)
+
 <p>📧 <a href="mailto:amitkush.dev@gmail.com">amitkush.dev@gmail.com</a></p>
 
 ###
