@@ -9,7 +9,7 @@ I'm a Full-Stack Developer. I like learning new technologies. I am currently exp
 
 ## 🚀 Technologies & Tools
 - **Programming/Scripting Languages:** JavaScript, TypeScript
-- **Frontend Development:** React.js, Next.js, Framer motion, Tailwind CSS, Shadcn UI
+- **Frontend Development:** React.js, Next.js, Tailwind CSS
 - **Backend Development:** Node.js, Express   
 - **Databases:** MongoDB and PostgreSQL, Serverless Databases(NeonDB) 
 - **Version Control:** Git / GitHub
