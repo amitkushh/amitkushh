@@ -5,7 +5,7 @@ I'm a Full-Stack Developer. I like learning new technologies. I am currently exp
 ## 🎯 Learning Goals
 
 - ✨ Creating bugs since june 2024
-- 🎯 Goals 2025: build best projects.
+- 🎯 Goals 2026: build best projects.
 
 ## 🚀 Technologies & Tools
 - **Programming/Scripting Languages:** JavaScript, TypeScript
