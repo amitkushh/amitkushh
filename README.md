@@ -17,7 +17,7 @@ I'm a Full-Stack Developer. I like learning new technologies. I am currently exp
 
 ## 🤝 Lets Connect
 I’d love to connect with like-minded developers, tech enthusiasts, and collaborators!  
-Feel free to reach out via [Email](mailto:amitkush.dev@gmail.com) and [Twitter](https://twitter.com/amitkushh)  
+Feel free to reach out via [Email](mailto:amitkush.dev@gmail.com)  
 Whether it’s about **exciting projects, freelance opportunities, or sharing ideas**,  
 I’m always open to meaningful discussions and potential collaborations.
 
